@@ -1,0 +1,14 @@
+{
+  "name": "laliga-player-api",
+  "version": "1.0.0",
+  "description": "API REST em Node.js para pesquisa de jogadores e clubes da LaLiga",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
