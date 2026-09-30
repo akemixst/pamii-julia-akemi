@@ -87,8 +87,6 @@ console.log(data.players);
 - CORS
 - JavaScript
 
-## 📌 Observação
 
-Os jogadores deste projeto são dados de exemplo para demonstrar o funcionamento da API. Para uma aplicação real, substitua `src/data.js` por uma fonte de dados atualizada e licenciada.
 
-🌐 Mais conteúdos: https://gptonline.ai/
+
