@@ -168,7 +168,5 @@ Agora você já tem a estrutura inicial para começar a desenvolver seu aplicati
 
 ---
 
-⭐ Se este guia foi útil, considere deixar uma estrela ⭐ neste repositório!
 
-🌐 Mais conteúdos: https://gptonline.ai/
 
